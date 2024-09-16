@@ -5,16 +5,16 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //—————「 Set Name Owner & Bot 」—————//
-global.prefa = [''] // Change To Any Prefix or Leave " to use all prefix
-global.ownername = 'Toxxic Md⚡' // Add Your Name Here
+global.prefa = ['.'] // Change To Any Prefix or Leave " to use all prefix
+global.ownername = 'Halal Man⚡' // Add Your Name Here
 global.domain = '' // Add your Domain
 global.apikey2 = '' // Add your Apikey
 global.capikey2 = '' // Add your Capikey
 global.eggsnya = '15' // Must be 15
 global.location = '1' // Leave as 1
-global.anticall = false // true or false
+global.anticall = true // true or false
 //=================================================//
-global.owner = ['2347042081220'] // Add your WhatsApp number
+global.owner = ['18503336154'] // Add your WhatsApp number
 //==========================BY Toxxic Tech=======================//
 global.keyopenai = 'sk-proj-pBksWDImP6VuvvJTvqDsT3BlbkFJ2E8GhbpzjyRFkFaBI9Aj' //Replace With Your Openai Key if Mine is Invaild or Command doesn't respond
 //====================BY Toxxic Tech=============================//
